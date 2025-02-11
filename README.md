@@ -4,12 +4,12 @@ Maker Media GmbH
 
 ***
 
-# Universaler Fräs- und Sägetisch
+#  Bluetooth-LE-Sensoren in die Cloud bringen
 
-### Mit unseren Umbauideen wird aus einer normalen Tischkreissäge eine Fräs-Sagekombination.
+###  In diesem Artikel zeigen wir, wie Sie mit einem alten Smartphone die Sensoren-Messwerte von Fitnessbändern, Reifendrucksensoren und AirTags ohne viel Aufwand in die Cloud leiten können. 
 
-Platznot ist ein chronisches Problem in vielen Bastelräumen. Zum Glück wird aus einer Tischkreissäge schnell und günstig ein universaler Fräs- und Sägetisch.
+Hier finden Sie der Beispiel-App aus dem Artikel.
 
-![Picture](https://github.com/MakeMagazinDE/Fraestisch/blob/master/Fraestisch.jpg) 
+![Picture](https://github.com/MakeMagazinDE/) 
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 5/19 ab Seite 118](https://www.heise.de/select/make/2019/5/1571592996373573). Hier finden Sie die 3D-Druckdateien für die Absaugung.
+Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 6/24 ab Seite 44](https://www.heise.de/ratgeber/Bluetooth-LE-Sensoren-in-die-Cloud-bringen-9992773).
