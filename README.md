@@ -10,6 +10,6 @@ Maker Media GmbH
 
 Hier finden Sie der Beispiel-App aus dem Artikel.
 
-![Picture](https://github.com/MakeMagazinDE/) 
+![Picture](https://github.com/MakeMagazinDE/Bluetooth-LE-Sensoren-in-die-Cloud-bringen/blob/master/1719913099349.jpg) 
 
 Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 6/24 ab Seite 44](https://www.heise.de/ratgeber/Bluetooth-LE-Sensoren-in-die-Cloud-bringen-9992773).
